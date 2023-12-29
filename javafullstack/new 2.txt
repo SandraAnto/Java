@@ -1,0 +1,53 @@
+01-11-2023
+
+1 to 10
+How Curious am I: 3
+
+Relentlessly Curious
+Method----------mindset
+
+CQA-Curious questions to be asked
+1.identify the stakeholder - whome iw gonna ask
+2.
+
+USING THE CURIOSITY TYPES OF CQA
+
+data/information                D
+thoughts/opinion                T
+feelings-closest to the truth   F
+Intension						I
+
+
+
+Generation population
+
+def fibonacci(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+
+# Calculate population growth for 12 generations
+generations = 12
+for i in range(generations):
+    population = fibonacci(i)
+    print(f"Generation {i}: {population} pairs of rabbits")
+	
+	
+STORY TELLING
+1.
+2.Information overload
+	*inspiration
+	*insight
+	*learning
+	
+UPSA
+
+problem
+solution
+achievments
+unusual
+
+GEN AI 

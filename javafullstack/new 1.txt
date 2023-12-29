@@ -1,0 +1,81 @@
+
+5 core skills 
+*professionalism
+*Problem solving
+*learning agility
+*Communication
+*Adaptibilty
+
+Pro visionaries
+*everyone has a visions
+*vision is important to achieve goal
+
+Green zone 
+Transformative-0Z
+*have to build coding skills
+*improve volcabulary
+*ssb
+
+*financial planning
+*fast decision making
+
+TOPIC tech
+
+AR in health care
+transform medical diagonistic - topic
+
+how ar is is used in transforming in health care for curing medical diagonis
+
+-------------------------------------
+Augmented Reality in Healthcare: Transforming Medical Diagnostics
+WHAT is augmented reality
+
+Augmented reality (AR) is a technology that adds extra information or objects to the things you see in the real world.
+AR enhances the real world by overlaying digital content onto it.
+It's like having a special pair of glasses or using a smartphone that can show you things that aren't actually there. 
+This extra information could be pictures, videos, or 3D models.
+
+It is used in varoius inductries and one of its most promising applications is in healthcare
+
+WHAT ALL CAN BE DONE
+* Enhanced Visualization for Practitioners:
+AR allows physicians to superimpose 3D anatomical models and medical data onto a patient's body,
+ offering a more comprehensive view of the internal structures.
+
+*Improved Medical Imaging:
+AR enhances medical imaging by overlaying diagnostic images, such as X-rays, MRIs, and CT scans, directly onto the patient.
+
+*Real-time Data and Information:
+->Physicians can access patient records, treatment plans, and real-time data during patient consultations,
+enabling quicker and more informed decisions.
+
+* Medical Training and Education:
+Augmented reality is a valuable tool for medical education, offering students and practitioners immersive, 
+hands-on training experiences.
+
+*Early Detection and Prevention:
+A. AR can aid in early disease detection through advanced screening and diagnostic tools.
+B. This early detection can lead to better treatment outcomes and improved patient care.
+
+*VIII. Ethical and Privacy Considerations:
+A. The use of AR in healthcare also brings ethical and privacy concerns, such as data security and informed consent.
+B. Regulations and standards need to be established to ensure the responsible and secure use of this technology.
+
+WHEN
+Early 2010s: Initial experiments and research projects started to explore the use of AR for medical training and surgical procedures.
+
+ADVANTAGES
+*reducing the margin for error.
+*helps to  save many lives
+* It aids in surgical planning
+* guiding surgeons with real-time visual cues during procedures,
+*Patients can receive real-time visual instructions for medication administration and self-care. 
+
+CONCLUSION
+Augmented reality is indeed transforming medical diagnostics in healthcare. 
+Its ability to enhance visualization, improve medical imaging, provide real-time data, support education
+, and expand healthcare access has the potential to save lives, improve patient outcomes,
+ and revolutionize the way we approach medical diagnostics. As the technology continues to advance,
+ it is crucial to strike a balance between harnessing its potential and addressing the ethical and privacy challenges
+ associated with its adoption in healthcare. Augmented reality represents a promising future for the medical field, 
+ offering new ways to diagnose, treat, and educate, ultimately benefiting patients and healthcare professionals alike.
